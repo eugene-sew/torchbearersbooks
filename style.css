@@ -82,10 +82,15 @@ max-height: 450px;
   background-size: cover;
 }
 
-footer{
+.footer1{
   background-image: url(./pic/tbss15.jpg);
   background-attachment: fixed;
   background-size: cover;
+}
+
+.footer-ico a {
+  text-decoration: none;
+  color: white !important;
 }
 
 .sicon{
